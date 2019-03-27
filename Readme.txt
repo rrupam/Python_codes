@@ -1,1 +1,1 @@
-"Hi" 
+I created this repository when I was beginning to learn Python as well as getting to know Github. You can see some simple programs that were either self created or done as part of exercises from codeacedemy.com.  
